@@ -28,7 +28,6 @@ cc_library_shared {
         "libhardware",
         "libhwbinder",
         "libbase",
-        "libcutils",
         "libutils",
         "libhidlbase",
         "libhidltransport",
